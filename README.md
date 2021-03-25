@@ -1,2 +1,2 @@
-# Class_24_StudentActivity
-Classes and objects for all the objects in the angry birds game
+# p5.play-boilerplate
+Boiler plate for p5.play
